@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#C0C0C0"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".DeckActivity"
+    tools:showIn="@layout/activity_deck">
+
+    <Button
+        android:id="@+id/creatures"
+        android:layout_width="121dp"
+        android:layout_height="wrap_content"
+        android:text="Creatures"
+        android:textColor="#0000ff"
+        android:background="@android:color/transparent"
+        app:layout_constraintBaseline_toBaselineOf="@+id/intsants"
+        app:layout_constraintEnd_toEndOf="@+id/sorceries"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="@+id/Artifacts"
+        android:layout_marginRight="2dp" />
+
+    <Button
+        android:id="@+id/intsants"
+        android:layout_width="119dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="31dp"
+        android:text="Instants"
+        android:textColor="#ff0000"
+        android:background="@android:color/transparent"
+        app:layout_constraintBottom_toTopOf="@+id/Enchantments"
+        app:layout_constraintEnd_toEndOf="@+id/Planeswaker"
+        app:layout_constraintStart_toStartOf="@+id/Enchantments" />
+
+    <Button
+        android:id="@+id/sorceries"
+        android:layout_width="124dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="1dp"
+        android:layout_marginStart="1dp"
+        android:text="Sorceries"
+        android:textColor="#228B22"
+        android:background="@android:color/transparent"
+        app:layout_constraintBaseline_toBaselineOf="@+id/Enchantments"
+        app:layout_constraintEnd_toEndOf="@+id/Artifacts"
+        app:layout_constraintStart_toStartOf="@+id/Artifacts" />
+
+    <Button
+        android:id="@+id/Enchantments"
+        android:layout_width="143dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="27dp"
+        android:text="Enchantments"
+        android:textColor="#ffffff"
+        android:background="@android:color/transparent"
+        app:layout_constraintBottom_toTopOf="@+id/Planeswaker"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginRight="50dp" />
+
+    <Button
+        android:id="@+id/Artifacts"
+        android:layout_width="121dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="25dp"
+        android:text="Artifacts"
+        android:textColor="#000"
+        android:background="@android:color/transparent"
+        app:layout_constraintBottom_toTopOf="@+id/BasicLand"
+        app:layout_constraintEnd_toEndOf="@+id/BasicLand"
+        app:layout_constraintStart_toStartOf="@+id/BasicLand" />
+
+    <Button
+        android:id="@+id/Planeswaker"
+        android:layout_width="136dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="25dp"
+        android:text="Planeswalker"
+        android:textColor="#0000ff"
+        android:background="@android:color/transparent"
+        app:layout_constraintBottom_toTopOf="@+id/nonbasicland"
+        app:layout_constraintEnd_toEndOf="@+id/Enchantments"
+        app:layout_constraintStart_toStartOf="@+id/Enchantments" />
+
+    <Button
+        android:id="@+id/BasicLand"
+        android:layout_width="121dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="40dp"
+        android:text="Basic Land"
+        android:textColor="#ff0000"
+        android:background="@android:color/transparent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginLeft="16dp" />
+
+    <Button
+        android:id="@+id/nonbasicland"
+        android:layout_width="104dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="33dp"
+        android:text="Non-Basic Land"
+        android:textColor="#228B22"
+        android:background="@android:color/transparent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/Enchantments"
+        app:layout_constraintStart_toStartOf="@+id/Planeswaker"
+        android:layout_marginRight="1dp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="272dp"
+        android:layout_height="46dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="8dp"
+        android:text="Why don't you take a look at the cards I put in my deck by card type."
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</android.support.constraint.ConstraintLayout>

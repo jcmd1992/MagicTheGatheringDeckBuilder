@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MtgDeckBuilderHelper</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_creatures">Creatures</string>
+    <string name="title_activity_instants">Instants</string>
+    <string name="title_activity_sorceries">Sorceries</string>
+    <string name="title_activity_enchantments">Enchantments</string>
+    <string name="title_activity_artifacts">Artifacts</string>
+    <string name="title_activity_planeswalker">Planeswalker</string>
+    <string name="title_activity_basic_land">BasicLand</string>
+    <string name="title_activity_non_basic_land">NonBasicLand</string>
+    <string name="Welcome">Welcome</string>
+    <string name="title_activity_deck">Deck</string>
+    <string name="title_activity_deckinfo">DeckinfoActivity</string>
+    <string name="title_activity_dialog_view">DialogViewActivity</string>
+    <string name="title_activity_deck1">DeckActivity1</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_deck_contents">DeckContents</string>
+</resources>

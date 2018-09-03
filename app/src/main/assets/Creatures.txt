@@ -1,0 +1,25 @@
+Name: Essence Warden, Creature-Type: Elf Shaman, Colour: Green, Mana-Cost: 1, Number-Of-Cards-In-Deck: 4
+Name: Arbor Elf, Creature-Type: Elf Druid, Colour: Green, Mana-Cost: 1, Number-Of-Cards-In-Deck: 3
+Name: Primal Druid, Creature-Type: Human Druid, Colour: Green, Mana-Cost: 2, Number-Of-Cards-In-Deck: 3
+Name: Kavu Predator, Creature-Type: Kavu, Colour: Green, Mana-Cost: 2, Number-Of-Cards-In-Deck: 1
+Name: Grazing Gladehart, Creature-Type: Antelope, Colour: Green, Mana-Cost: 3, Number-Of-Cards-In-Deck: 4
+Name: Krosan Druid, Creature-Type: Centaur Druid, Colour: Green, Mana-Cost: 3, Number-Of-Cards-In-Deck: 1
+Name: Tree of Redemption, Creature-Type: Plant, Colour: Green, Mana-Cost: 4, Number-Of-Cards-In-Deck: 1
+Name: Iwamori of the Open Fist, Creature-Type: Human Monk, Colour: Green, Mana-Cost: 4, Number-Of-Cards-In-Deck: 1
+Name: Kavu Climber, Creature-Type: Kavu, Colour: Green, Mana-Cost: 5, Number-Of-Cards-In-Deck: 3
+Name: Ageless Entity, Creature-Type: Elememtal, Colour: Green, Mana-Cost: 5, Number-Of-Cards-In-Deck: 1
+Name: Grunn The Lonely King, Creature-Type: Ape Warrior, Colour: Green, Mana-Cost: 6, Number-Of-Cards-In-Deck: 1
+Name: Elvish Aberration, Creature-Type: Elf Mutant, Colour: Green, Mana-Cost: 6, Number-Of-Cards-In-Deck: 1
+Name: Ghalta Primal Hunger, Creature-Type: Elder Dinosaur, Colour: Green, Mana-Cost: 12, Number-Of-Cards-In-Deck: 1
+
+Name: Loam Lion, Creature-Type: Cat, Colour: White, Mana-Cost: 1, Number-Of-Cards-In-Deck: 1
+Name: Ajani's Pridemate, Creature-Type: Cat Soldier, Colour: White, Mana-Cost: 2, Number-Of-Cards-In-Deck: 2
+Name: Anointer Priest, Creature-Type: Human Cleric, Colour: White, Mana-Cost: 2, Number-Of-Cards-In-Deck: 1
+Name: Blessed Spirits, Creature-Type: Spirit, Colour: White, Mana-Cost: 3, Number-Of-Cards-In-Deck: 1
+Name: Twighlight Drover, Creature-Type: Spirit, Colour: White, Mana-Cost: 3, Number-Of-Cards-In-Deck: 1
+Name: Thalia Heretic Cather, Creature-Type: Human Soldier, Colour: White, Mana-Cost: 3, Number-Of-Cards-In-Deck: 1
+Name: Healer of the Pride, Creature-Type: Car Cleric, Colour: White, Mana-Cost: 4, Number-Of-Cards-In-Deck: 1
+Name: Crested Sunmare, Creature-Type: Horse, Colour: White, Mana-Cost: 5, Number-Of-Cards-In-Deck: 1
+
+Name: Watchwolf, Creature-Type: Wolf, Colour: Green and White, Mana-Cost: 2, Number-Of-Cards-In-Deck: 1
+Name: Loxodon Hierarch, Creature-Type: Elephant Cleric, Colour: Green and White, Mana-Cost: 4, Number-Of-Cards-In-Deck: 1
